@@ -1,4 +1,4 @@
-Project - Landing Page
+**Project - Landing Page**
 
 In this project, I'll be creating an entire web page and its details are:
 1. Dark background color (hero & Footer) 
@@ -21,3 +21,6 @@ In this project, I'll be creating an entire web page and its details are:
 8. Quote text
   36px light italic #1F2937
 
+
+*Open this here*
+https://abbaskazmi7.github.io/Landing-Page/
